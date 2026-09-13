@@ -55,7 +55,7 @@ if (contactForm) {
         }
 
         try {
-            const response = await fetch("https://portofolio-backend-3xuh.onrender.com/api/contact", {
+            const response = await fetch("https://portfolio-website-h7zm.onrender.com/api/contact", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"
